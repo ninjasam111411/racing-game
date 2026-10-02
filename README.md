@@ -4,7 +4,7 @@ A racing game you play right in your web browser. Nothing to download or install
 
 ## ▶ Play
 
-**https://ninjasam111411.github.io/kart-rush-gp/**
+**https://ninjasam111411.github.io/racing-game/**
 
 Works best on a computer with a keyboard, in Chrome, Edge, Firefox or Safari.
 
